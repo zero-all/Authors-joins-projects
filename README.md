@@ -1,5 +1,5 @@
 # Authors-joins-projects
-##【等待被Star的社区列表】社区议员-贡献者-开源项目
+## 【等待被Star的社区列表】社区议员-贡献者-开源项目
 ## Projects under ZeroAll License. Thanks for your support!
 
 ### 一、社区议员. Thanks for your support!
